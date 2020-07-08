@@ -1,0 +1,24 @@
+body {
+  font-size: 2em;
+  background-image: url('https://images.unsplash.com/photo-1452800185063-6db5e12b8e2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form-group {
+  color: aliceblue;
+}
+
+header {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  padding: 2em;
+  margin-bottom: 1em;
+}
+
+.delete-box {
+  border: 2px solid red;
+  padding: 2em;
+  width: 300px;
+}
